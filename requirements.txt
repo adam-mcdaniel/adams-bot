@@ -1,0 +1,2 @@
+aitextgen==0.5.2
+discord==1.7.3
