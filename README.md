@@ -38,6 +38,7 @@ To use the GPT-2 chat bot, simply mention the bot by typing `@` along with the b
     <img src="./assets/message.png">
 </div>
 
+
 Users can start a dungeon game by using the `/zork` command, and can send successive commands using phrases like `/zork go west`. To quit a session, send `/zork quit`. All commands only affect the sender's dungeon.
 
 ## How do I run it?
