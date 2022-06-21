@@ -15,11 +15,11 @@ I made this bot to serve two functions:
 
 
 <p class="column" float="left">
-    <img src="./assets/how are you.jpg"/>
-    <img src="./assets/spanish.jpg"/>
+    <img src="./assets/how are you.jpg" width="60%"/>
+    <img src="./assets/spanish.jpg" width="60%"/>
 </p>
 <p class="column" float="right">
-    <img src="./assets/zork.jpg" height="82.5%"/>
+    <img src="./assets/zork.jpg" width="30%"/>
 </p>
 
 ## How does it work?
