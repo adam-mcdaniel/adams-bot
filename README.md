@@ -3,7 +3,7 @@
 A mini me for my Discord server!
 
 <div align="center">
-    <img width="50%" src="assets/me.jpg" style="border-radius:16em;   border: 1em solid #6495ED;"/>
+    <img width="50%" src="assets/adams-bot.png"/>
 </div>
 
 ## What does adam's bot do?
