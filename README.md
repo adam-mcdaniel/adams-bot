@@ -14,15 +14,13 @@ I made this bot to serve two functions:
 2. To be a dungeon master for an adventure game.
 
 
-<div class="row" style="display: flex;">
-    <div class="column" float="left">
-        <img src="./assets/how are you.jpg"/>
-        <img src="./assets/spanish.jpg"/>
-    </div>
-    <div class="column" float="right">
-        <img src="./assets/zork.jpg" height="82.5%"/>
-    </div>
-</div>
+<p class="column" float="left">
+    <img src="./assets/how are you.jpg"/>
+    <img src="./assets/spanish.jpg"/>
+</p>
+<p class="column" float="right">
+    <img src="./assets/zork.jpg" height="82.5%"/>
+</p>
 
 ## How does it work?
 
