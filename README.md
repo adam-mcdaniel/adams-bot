@@ -26,7 +26,7 @@ The chatbot function is powered by [GPT-2](https://openai.com/blog/better-langua
 
 ![GPT-2](./assets/gpt2.jpg)
 
-The "dungeon master" function is more tricky. It works by using a modified version of [devshane's zork repository](https://github.com/devshane/zork/search?q=rdline_) (a C port of the original game). The only change I made was to make the program consistently output `>` when prompting user input. (For some reason, it only seems to output `>` when using a non-piped STDIN). I did this just by adding `puts(">");` to the beginning of the `void rdline_(char*, int);` function.
+The "dungeon master" function is more tricky. It works by using a modified version of [devshane's zork repository](https://github.com/devshane/zork/) (a C port of the original game). The only change I made was to make the program consistently output `>` when prompting user input. (For some reason, it only seems to output `>` when using a non-piped STDIN). I did this just by adding `puts(">");` to the beginning of the `void rdline_(char*, int);` function.
 
 The "dungeon master" feature can handle multiple dungeons at a time (one dungeon per user at a time), and can be used in direct messages and servers both.
 
