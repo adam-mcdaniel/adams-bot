@@ -34,7 +34,9 @@ The "dungeon master" feature can handle multiple dungeons at a time (one dungeon
 
 To use the GPT-2 chat bot, simply mention the bot by typing `@` along with the bot's name, and then include whatever you'd like the bot to respond to!
 
-![Example message](./assets/message.png)
+<div align="center">
+    <img src="./assets/message.png">
+</div>
 
 Users can start a dungeon game by using the `/zork` command, and can send successive commands using phrases like `/zork go west`. To quit a session, send `/zork quit`. All commands only affect the sender's dungeon.
 
